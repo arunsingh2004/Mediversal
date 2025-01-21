@@ -1,7 +1,7 @@
 
 # RegistrationApp
 
-A React Native app for user registration with validation, built using Expo.
+A React Native app for search Bar for patients and  user registration with validation, built using Expo.
 
 ## Features
 
@@ -30,7 +30,7 @@ A React Native app for user registration with validation, built using Expo.
 ### 2. Clone the Repository
 
 ```
-git clone https://github.com/username/RegistrationApp.git
+git clone https://github.com/arunsingh2004/Mediversal
 cd RegistrationApp
 ```
 
@@ -79,7 +79,7 @@ RegistrationApp/
 1. Fork the repository:
 
 ```
-git fork https://github.com/username/RegistrationApp.git
+git fork (https://github.com/arunsingh2004/Mediversal)
 ```
 
 2. Create a new branch:
@@ -110,6 +110,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any inquiries, please contact:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Name**: Arun Singh
+- **Email**: arunsinghbrh9006@gmail.com
+- **GitHub**: [arunsingh2004](https://github.com/arunsingh2004/Mediversal)
