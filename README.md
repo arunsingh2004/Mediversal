@@ -37,13 +37,13 @@ cd RegistrationApp
 ### 3. Install Dependencies
 
 ```
-yarn
+npm install
 ```
 
 ### 4. Start the App
 
 ```
-yarn start
+npm run download
 ```
 
 ## Usage
